@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vincius-scarabelot/vincius-scarabelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Vinicius Scarabelot!
 
-Here are some ideas to get you started:
+### 🎓 Estudante de Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por tecnologia e programação  
+🚀 Dedicado aos estudos e ao desenvolvimento de novas habilidades  
+📚 Sempre buscando aprender e evoluir
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Olá! Meu nome é *Vinicius Scarabelot* e atualmente estou cursando *Engenharia de Software*.
+
+Tenho interesse na área de tecnologia e estou desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
+
+Sou uma pessoa *dedicada*, gosto de aprender coisas novas e estou sempre buscando melhorar minhas habilidades.
+
+---
+
+## 🚀 Tecnologias que estou estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode" />
+
+</div>
+
+
+
+
+### 🚀 Sempre aprendendo. Sempre evoluindo.
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
